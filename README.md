@@ -11,8 +11,8 @@
   2. Run setup.exe 
   3. General windows for istalling the program will appear.
   4. Executable file will be in NeuroPhysiology Lab folder.    
- 
-**Minhee Analysis**
+ <h>
+
 
 ![Figure 2. GUI of Minhee analysis](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Minhee%20Analysis/Screenshot%20of%20Minhee%20Analysis.png)  
 
