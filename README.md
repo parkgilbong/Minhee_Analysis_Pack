@@ -13,6 +13,6 @@
   4. Executable file will be in NeuroPhysiology Lab folder.    
  *****
  ![Figure 2. GUI of Minhee analysis](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Minhee%20Analysis/Screenshot%20of%20Minhee%20Analysis.png)  
-![1.Set parameters] (https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Use%20Example/Minhee_Analysis_step_1.PNG?raw=true)
+![1.Set parameters] (https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Use%20Example/Minhee_Analysis_step_1.PNG)
 
 ![alt text](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Minhee%20Retriever/Screenshot%20of%20Minhee%20Retriever.png)
