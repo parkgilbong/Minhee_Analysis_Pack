@@ -22,6 +22,10 @@
   3. General windows for istalling the program will appear.
   4. Executable file will be in NeuroPhysiology Lab folder.    
  *****
+ ## Release Notes
+ version 1.0 (2020-05-20)
+  - First version to be released
+ ***** 
   ## **Minhee Analysis**
  ![Figure 2. GUI of Minhee Analysis](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Minhee%20Analysis/Screenshot%20of%20Minhee%20Analysis.png)  
 ![1.Set parameters](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Use%20Example/Minhee_Analysis_step_1.PNG)
