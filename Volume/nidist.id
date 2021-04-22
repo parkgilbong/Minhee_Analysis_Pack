@@ -1,7 +1,7 @@
 [Volume Id]
 DistributionGUID={9D795E9C-2ED4-4606-A93E-BACBB930E1F3}
-DistPackageGUID={CAA6C817-10D0-4672-9AF1-CCE5A6DC3543}
-DistributionVersion=1.0.58
+DistPackageGUID={5C3B2313-59C6-4BB8-ADF2-111C10E3F006}
+DistributionVersion=1.0.59
 DistributionType=MDF
 DistributionLanguage=9
 Volume=1
