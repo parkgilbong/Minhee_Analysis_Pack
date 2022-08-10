@@ -5,53 +5,38 @@
  #### Here, we present an integrated software package for detection and measurement of spontaneous synaptic events. This package, Minhee Analysis Package, is built to detect spontaneous PSCs, search and visualize them in a custom way, and perform the hypothesis testing of the retrieved data. This package utilizes a stepwise and exploratory search algorithm to detect PSCs. To create up-to-date tables of data, users can search their data in one’s defined manner. After the successful retrieval of the data, the package automatically generates general and cumulative histograms to represent the distribution of data. The package serves two hypothesis testing methods, student’s t-test for comparing averaged values between two groups and Kolmogorov-Smirnov (K-S) test for comparing distribution of data between two groups. All of Minhee Analysis Package’s functionality is accessible via its easy-to-use graphical user interface (GUI). Minhee Analysis Package can be downloaded at http://www.github.com/parkgilbong/Minhee_Analysis_Pack.
  
  ## Package release and update log
--------------------------------------------------------------------------------
-Release 1.1.3 from July 25, 2022
--------------------------------------------------------------------------------
-Notes
-=====
--	From this version, users can turn on/off the Exponential curve fitting. To toggle it, users may either access the runtime menu (View>Event Trace>Exponential curve fitting>ON or OFF), or may use a hot key. Ctrl+3 and Ctrl+4 are shortcuts to turn the function on and off, respectively. 
--	When the program finishes importing a data file, the file name with the extension appears in its window title.        
--	Bug fixed and GUI has been improved. 
+* Release 1.1.3 from July 25, 2022
+   #### Notes
+      -	From this version, users can turn on/off the Exponential curve fitting. To toggle it, users may either access the runtime menu (View>Event Trace>Exponential curve fitting>ON or OFF), or may use a hot key. Ctrl+3 and Ctrl+4 are shortcuts to turn the function on and off, respectively. 
+      -	When the program finishes importing a data file, the file name with the extension appears in its window title.
+      -	The exact p-value is provided as a result of the K-S test.
+      -	Bug fixed and GUI has been improved. 
 
--------------------------------------------------------------------------------
-Release 1.1.2 from May 23, 2022
--------------------------------------------------------------------------------
-Notes
-=====
--	Bug fixed and GUI has been improved. 
+* Release 1.1.2 from May 23, 2022
+   #### Notes
+      -	Bug fixed and GUI has been improved. 
 
--------------------------------------------------------------------------------
-Release 1.1.1 from Aug 9, 2021
--------------------------------------------------------------------------------
-Notes
-=====
--	The methodology article has been published in Molecular Brain doi: 10.1186/s13041-021-00847-x
--	The Comparison, Export, Save functions from the previous version have been renamed Hypothesis testing, Export Cumulative Plot, and Save Summary Table, respectively. 
--	A new function called ‘Save Whole Data’ has been added to the Minhee Retriever, which allows the users to save all retrieved events to a file in text format. 
--	One-way ANOVA was added to the Hypothesis testing function in the Minhee Retriever. 
--	GUI of the Minhee Retriever has been changed.
--	After performing the Hypothesis testing, the Minhee Retriever displays detailed statistical information.    
+* Release 1.1.1 from Aug 9, 2021
+   #### Notes
+      -	The methodology article has been published in Molecular Brain doi: 10.1186/s13041-021-00847-x
+      -	The Comparison, Export, Save functions from the previous version have been renamed Hypothesis testing, Export Cumulative Plot, and Save Summary Table, respectively. 
+      -	A new function called ‘Save Whole Data’ has been added to the Minhee Retriever, which allows the users to save all retrieved events to a file in text format. 
+      -	One-way ANOVA was added to the Hypothesis testing function in the Minhee Retriever. 
+      -	GUI of the Minhee Retriever has been changed.
+      -	After performing the Hypothesis testing, the Minhee Retriever displays detailed statistical information.    
 
--------------------------------------------------------------------------------
-Release 1.0.1 from May 29, 2021
--------------------------------------------------------------------------------
-Notes
-=====
--	Bug fixed. 
--	A resource preprint that describes the algorithm, all features and examples has been released. 
-(https://www.biorxiv.org/content/10.1101/2021.05.27.443730v1.full)
+* Release 1.0.1 from May 29, 2021
+   #### Notes
+      -	Bug fixed. 
+      -	A resource preprint that describes the algorithm, all features and examples has been released. 
+       (https://www.biorxiv.org/content/10.1101/2021.05.27.443730v1.full)
 
--------------------------------------------------------------------------------
-Initial Release from Wednesday, November 18, 2020
--------------------------------------------------------------------------------
-Notes
-=====
--	It is the first release of the package. 
--	The initial version of Minhee analysis and Minhee retriever is 1.0.0.
--	A description of all features and examples of use can be found at https://github.com/parkgilbong/Minhee_Analysis_Pack 
+* Initial (1.0.0) Release from Wednesday, November 18, 2020
+   #### Notes
+      -	It is the first release of the package. 
+      -	The initial version of Minhee analysis and Minhee retriever is 1.0.0.
+      -	A description of all features and examples of use can be found at https://github.com/parkgilbong/Minhee_Analysis_Pack 
  
-
 ![Figure 1. System overview](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Minhee%20Analysis/System%20overview.PNG) 
   
  ## Installation (Do only once)  
