@@ -8,8 +8,8 @@
 * Release 1.1.3 from July 25, 2022
    #### Notes
       -	From this version, users can turn on/off the Exponential curve fitting. To toggle it, users may either access the runtime menu (View>Event Trace>Exponential curve fitting>ON or OFF), or may use a hot key. Ctrl+3 and Ctrl+4 are shortcuts to turn the function on and off, respectively. 
-      -	When the program finishes importing a data file, the file name with the extension appears in its window title.        
-      - The exact p-value is provided as a result of the K-S test.
+      -	When the program finishes importing a data file, the file name with the extension appears in its window title.
+      -	The exact p-value is provided as a result of the K-S test.
       -	Bug fixed and GUI has been improved. 
 
 * Release 1.1.2 from May 23, 2022
