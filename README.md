@@ -76,17 +76,7 @@ If you use Minhee Analysis Package in your research, please cite:
   4. Executable file will be in NeuroPhysiology Lab folder.    
  
   ## **Minhee Analysis**
- ![Figure 2. GUI of Minhee Analysis](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Minhee%20Analysis/Screenshot%20of%20Minhee%20Analysis.png)  
-![1.Set parameters](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Use%20Example/Minhee_Analysis_step_1.PNG)
-![2.Import file](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Use%20Example/Minhee_Analysis_step_2.PNG)
-![3.Browse data](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Use%20Example/Minhee_Analysis_step_3.PNG)
-![4.Edit event](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Use%20Example/Minhee_Analysis_step_4.PNG)
-![5.Select event](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Use%20Example/Minhee_Analysis_step_5.PNG)
-![6.Save unit file](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Use%20Example/Minhee_Analysis_step_6.PNG)
+  ![Figure 2. GUI of Minhee Analysis](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Minhee%20Analysis/Screenshot%20of%20Minhee%20Analysis.png)  
 *****
  ## **Minhee Retriever**
-![Figure 3. GUI of Minhee Retriever](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Minhee%20Retriever/Screenshot%20of%20Minhee%20Retriever.png)
-![1.Retrieval of unit files](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Use%20Example/Minhee_Retriever_step_1.PNG)
-![2.Display retrieved data](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Use%20Example/Minhee_Retriever_step_2.PNG)
-![3.Comparison analysis](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Use%20Example/Minhee_Retriever_step_3.PNG)
-![4.Export plot data & Save result](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Use%20Example/Minhee_Retriever_step_4.PNG)
+  ![Figure 3. GUI of Minhee Retriever](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Minhee%20Retriever/Screenshot%20of%20Minhee%20Retriever.png)
