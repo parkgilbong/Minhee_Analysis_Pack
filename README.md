@@ -67,7 +67,7 @@ If you use Minhee Analysis Package in your research, please cite:
       -	The initial version of Minhee analysis and Minhee retriever is 1.0.0.
       -	A description of all features and examples of use can be found at https://github.com/parkgilbong/Minhee_Analysis_Pack 
  
-![Figure 1. System overview](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Minhee%20Analysis/System%20overview.PNG) 
+![Figure 1. System overview](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13041-021-00847-x/MediaObjects/13041_2021_847_Fig1_HTML.png?as=webp)
   
  ## Installation (Do only once)  
   1. Download all files from the Volume folder in (github.com/parkgilbong/Minhee_Analysis_Pack)
@@ -76,7 +76,7 @@ If you use Minhee Analysis Package in your research, please cite:
   4. Executable file will be in NeuroPhysiology Lab folder.    
  
   ## **Minhee Analysis**
-  ![Figure 2. GUI of Minhee Analysis](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Minhee%20Analysis/Screenshot%20of%20Minhee%20Analysis.png)  
+  ![Figure 2. GUI of Minhee Analysis](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13041-021-00847-x/MediaObjects/13041_2021_847_Fig6_HTML.png?as=webp)  
 *****
  ## **Minhee Retriever**
-  ![Figure 3. GUI of Minhee Retriever](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Minhee%20Retriever/Screenshot%20of%20Minhee%20Retriever.png)
+  ![Figure 3. GUI of Minhee Retriever](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13041-021-00847-x/MediaObjects/13041_2021_847_Fig7_HTML.png?as=webp)
