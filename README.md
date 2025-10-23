@@ -1,9 +1,39 @@
-# Minhee_Analysis_Package last update: 2022-07-25
- ## Introduction  
-  #### Neurons communicate with each other in a precisely timed manner within a complex neural network. To transfer information in real-time dialogues between neurons, they release neurotransmitters and also receive them in synapses, which is represented as synaptic transmission. In order to decode information in this neuronal synaptic connection, it is essential to detect, measure, and analyze characteristics of synaptic transmission between neurons. Of various elements of synaptic transmission, the postsynaptic current (PSC) has been extensively analyzed to understand neuronal synapse property in electrophysiology.1–3. In terms of neurophysiology, PSCs are generated spontaneously or evoked by following presynaptic spikes, which is represented as miniature or spontaneous responses in postsynaptic neurons respectively. These miniature and spontaneous responses can be used for quantum analysis in synaptic transmission. Therefore, quantitative analysis of synaptic events of PSCs in neurons is a fundamental step to characterize synaptic properties in the brain.       
- #### While the results of quantitative analysis of PSCs are informative, a workflow for this analysis is time-consuming and laborious. To simplify the workflow and make it more efficient, several automated methods have been applied in the detection of spontaneous PSCs4–9. However, even after the completion in reliable detection of PSCs, it still remains redundant following steps dragging researchers to keep doing consecutive and iterative analysis to interpret the results. These steps include averaging and visualizing the data grouped by a custom manner, and also performing statistical assessments that neurophysiologists uses typically. Although there have been several attempts to improve the efficiency of the event detection process for electrophysiologists, however, there is still a lack of solutions to efficiently manage the analyzed data thereafter10. An integrated solution would improve the convenience and efficiency of researcher’s activity by simplifying the workflow from detection to interpretation of PSC data.         
- #### Here, we present an integrated software package for detection and measurement of spontaneous synaptic events. This package, Minhee Analysis Package, is built to detect spontaneous PSCs, search and visualize them in a custom way, and perform the hypothesis testing of the retrieved data. This package utilizes a stepwise and exploratory search algorithm to detect PSCs. To create up-to-date tables of data, users can search their data in one’s defined manner. After the successful retrieval of the data, the package automatically generates general and cumulative histograms to represent the distribution of data. The package serves two hypothesis testing methods, student’s t-test for comparing averaged values between two groups and Kolmogorov-Smirnov (K-S) test for comparing distribution of data between two groups. All of Minhee Analysis Package’s functionality is accessible via its easy-to-use graphical user interface (GUI). Minhee Analysis Package can be downloaded at http://www.github.com/parkgilbong/Minhee_Analysis_Pack.
- 
+# Minhee Analysis Package
+
+**An integrated software package for detection and management of spontaneous synaptic events**
+
+[![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs13041--021--00847--x-blue)](https://doi.org/10.1186/s13041-021-00847-x)
+
+Last update: 2022-07-25
+## Introduction
+
+To understand the information encoded in connections between neurons, postsynaptic current (PSC) has been widely measured as a primary index of synaptic strength in neurophysiology. Neurons communicate with each other in a precisely timed manner within a complex neural network, releasing and receiving neurotransmitters in synapses through synaptic transmission. PSCs are generated spontaneously or evoked by presynaptic spikes, represented as miniature or spontaneous responses in postsynaptic neurons. Quantitative analysis of these synaptic events is fundamental to characterizing synaptic properties in the brain.
+
+While the results of quantitative analysis of PSCs are informative, the workflow is time-consuming and laborious. Although several automated methods have been developed for detecting spontaneous PSCs, repetitive steps such as quantification, management, and statistical analysis still require considerable effort. An integrated solution is needed to simplify the workflow from detection to interpretation of PSC data.
+
+**Minhee Analysis Package** is an integrated standalone software package capable of detecting, sorting, and quantifying PSC data. This package is built not just to detect spontaneous PSCs, but also to search and visualize them in a custom way, and perform hypothesis testing on the retrieved data.
+
+### Key Features
+
+- **Stepwise exploratory algorithm** for precise PSC detection
+- **Customizable data retrieval** in user-defined manner
+- **Automatic visualization** with general and cumulative histograms
+- **Statistical hypothesis testing** including:
+  - Kolmogorov-Smirnov (K-S) test for comparing distributions between groups
+  - Independent two-sample t-test for comparing averaged values between groups
+  - One-way ANOVA for multiple group comparisons
+- **Easy-to-use graphical user interface (GUI)**
+- **Exponential curve fitting** (optional, toggle with Ctrl+3/Ctrl+4)
+- **Data export capabilities** for further analysis
+
+The detection algorithm has been validated using both simulated and experimental data. All features are accessible via an intuitive GUI, improving the convenience and efficiency of neurophysiologists by simplifying the workflow from detection to quantification.
+
+## Citation
+
+If you use Minhee Analysis Package in your research, please cite:
+
+> Kim, Y.G., Shin, J.J., Kim, S.J. (2021). Minhee Analysis Package: an integrated software package for detection and management of spontaneous synaptic events. *Molecular Brain*, 14, 138. https://doi.org/10.1186/s13041-021-00847-x
+
  ## Package release and update log
 * Release 1.1.3 from July 25, 2022
    #### Notes
@@ -40,9 +70,9 @@
 ![Figure 1. System overview](https://github.com/parkgilbong/Minhee_Analysis_Pack/blob/master/Minhee%20Analysis/System%20overview.PNG) 
   
  ## Installation (Do only once)  
-  1. Download all files from the Volume folder in (github.com/pargilbong/Minhee_Analsys_Pack)
+  1. Download all files from the Volume folder in (github.com/parkgilbong/Minhee_Analysis_Pack)
   2. Run setup.exe 
-  3. General windows for istalling the program will appear.
+  3. General windows for installing the program will appear.
   4. Executable file will be in NeuroPhysiology Lab folder.    
  
   ## **Minhee Analysis**
